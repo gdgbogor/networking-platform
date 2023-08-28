@@ -1,0 +1,23 @@
+{
+    "name": "KCD Network Challenge",
+    "short_name": "KCD Network Challenge",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#AA0000",
+    "theme_color": "#AA0000",
+    "description": "Ikuti challenge untuk menangin swags!",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/android-chrome-5512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}

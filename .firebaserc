@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "photo-challenge-keras"
+  },
+  "targets": {
+    "photo-challenge-keras": {
+      "hosting": {
+        "finedomain": [
+          "kcd-network-challenge"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
